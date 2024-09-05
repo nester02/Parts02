@@ -1,0 +1,18 @@
+// Import Bootstrap's source Sass
+@import 'bootstrap/scss/bootstrap';
+
+// Custom styles
+body {
+    background-color: #f8f9fa;
+}
+
+.navbar {
+    background-color: #343a40;
+    .navbar-brand, .navbar-nav .nav-link {
+        color: #ffffff;
+
+        &:hover {
+            color: #d3d3d3;
+        }
+    }
+}

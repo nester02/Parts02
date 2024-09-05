@@ -1,0 +1,33 @@
+<?php
+
+return [
+    'online_shop' => 'Запчастини02',
+    'all_products' => 'Всі товари',
+    'product' => 'Товар',
+    'categories' => 'Категорії',
+    'all_categories' => 'Всі категорії',
+    'category' => 'Категорія',
+    'cart' => 'В кошик',
+    'reset_project' => 'Скинути проект до початкового стану',
+    'current_lang' => 'укр',
+    'set_lang' => 'анг',
+    'properties' => [
+        'hit' => 'Хіт',
+        'recommend' => 'Рекомендуємо',
+        'new' => 'Новинка',
+    ],
+    'filter' => 'Фільтр',
+    'reset' => 'Скидання',
+    'price_from' => 'Ціна від',
+    'to' => 'до',
+    'login' => 'Увійти',
+    'logout' => 'Вийти',
+    'my_orders' => 'Мої замовлення',
+    'admin_panel' => 'Панель адміністратора',
+    'title' => 'Головна',
+    'rub' => 'руб',
+    'add_to_basket' => 'До кошика',
+    'more' => 'Докладніше',
+    'not_available' => 'Не доступний',
+    'project_reset' => 'Проект було скинуто до початкового стану',
+];
